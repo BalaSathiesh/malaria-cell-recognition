@@ -136,4 +136,4 @@ confusion_matrix(test_image_gen.classes,predictions)
 ### Result:
 Thus a deep neural network for Malaria infected cell recognition and to analyze the performance is created using tensorflow.
 
-**Developed By: Kothai K - 212222240051**
+
